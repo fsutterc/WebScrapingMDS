@@ -154,9 +154,9 @@ issue,author,state,assignees
 196,pescap,open,No one assigned
 200,pescap,open,No one assigned
 201,pescap,open,No one assigned
-202,pescap,open,No one assigned
+202,pescap,closed,No one assigned
 203,pescap,open,No one assigned
-205,yerkocp28,open,No one assigned
+205,yerkocp28,open,yerkocp28
 206,Davives,open,No one assigned
 207,Davives,closed,No one assigned
 208,Davives,open,No one assigned
@@ -167,3 +167,5 @@ issue,author,state,assignees
 214,Davives,open,No one assigned
 215,Davives,open,No one assigned
 216,Davives,open,No one assigned
+218,Fofiguer,open,No one assigned
+220,pescap,open,No one assigned
